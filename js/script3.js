@@ -2,7 +2,7 @@ const textElement = document.querySelector('h2');
 const botoes = document.querySelector('.botoes');
 const fotoContainer = document.querySelector("#fotoContainer");
 
-const text = "Essa sou eu:";
+const text = "Meu álbum de fotos 🥰:";
 let index = 0;
 let isDeleting = false;
 
